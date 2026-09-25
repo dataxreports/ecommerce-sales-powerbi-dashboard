@@ -14,3 +14,8 @@
 | Sales by Ship Mode | Bar Chart | Compares total sales across shipping methods. |
 | Average Shipping Days by Ship Mode | Bar Chart | Compares average shipping duration across shipping methods. |
 | Top 10 States by Sales | Bar Chart | Displays the ten states with the highest sales. |
+
+
+## 📊 Dashboard Preview
+
+![E-Commerce Sales Dashboard](Screenshots/dashboard-overview.png.png)
