@@ -12,7 +12,7 @@ The project demonstrates practical skills in **Power Query, DAX, data transforma
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Screenshots/dashboard-overview.png.png)
+![E-Commerce Sales Dashboard](Screenshots/dashboard-overview.png)
 
 
 ## 🎯 Project Objective
